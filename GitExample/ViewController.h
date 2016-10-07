@@ -12,6 +12,10 @@
 @interface ViewController : UIViewController
 {
     //comment
+    int a;
+    int b;
+    int sum;
+    
 }
 
 @end
